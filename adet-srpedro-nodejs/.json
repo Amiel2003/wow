@@ -1,0 +1,1112 @@
+{
+    "sales": [
+        {
+            "_id": "656201189e4e016732e887b7",
+            "selling_id": "A444CD8A-D07C-486E-90D2-CBD6470C9CE0",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "refresh_tokens": [],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 5,
+                    "total_amount": 1500,
+                    "_id": "656201189e4e016732e887b8"
+                },
+                {
+                    "product": {
+                        "_id": "1003",
+                        "product_name": "Regular Lechon Manok",
+                        "price": 280,
+                        "product_description": "Savor the simplicity and deliciousness of our classic Lechon Manok. Expertly roasted to perfection, our signature dish features a crispy golden skin that gives way to succulent, flavorful meat. It's the epitome of a satisfying and fuss-free dining experience. Elevate your meals with the timeless appeal of our regular Lechon Manok – a feast that captures the essence of traditional Filipino flavors.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:41:40.082Z",
+                        "__v": 0
+                    },
+                    "quantity": 1,
+                    "total_amount": 280,
+                    "_id": "656201189e4e016732e887b9"
+                }
+            ],
+            "total_quantity": 6,
+            "total_amount": 1780,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "refresh_tokens": [],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-11-25T14:13:44.527Z",
+            "__v": 0
+        },
+        {
+            "_id": "656202b29e4e016732e8880a",
+            "selling_id": "5427A6F4-C672-42F6-8B2B-45CFCE84EB3B",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                ],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1005",
+                        "product_name": "Regular Liempo",
+                        "price": 330,
+                        "product_description": "Indulge in the simple yet sublime pleasure of our Regular Liempo. Immerse yourself in the savory delight of perfectly grilled pork belly, offering a crisp exterior and tender, juicy layers within. It's a classic choice that captures the essence of traditional flavors, providing a satisfying and straightforward culinary experience. Elevate your dining moments with the timeless appeal of our Regular Liempo—a delicious journey into the heart of well-executed simplicity.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:43:57.192Z",
+                        "__v": 0
+                    },
+                    "quantity": 2,
+                    "total_amount": 660,
+                    "_id": "656202b29e4e016732e8880b"
+                },
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 3,
+                    "total_amount": 900,
+                    "_id": "656202b29e4e016732e8880c"
+                }
+            ],
+            "total_quantity": 5,
+            "total_amount": 1560,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-11-25T14:20:34.394Z",
+            "__v": 0
+        },
+        {
+            "_id": "6562c3c026dcb0b3eccf0a70",
+            "selling_id": "78734FFE-27BD-4C90-BF65-FB3C45FE5D73",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                ],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 1,
+                    "total_amount": 300,
+                    "_id": "6562c3c026dcb0b3eccf0a71"
+                }
+            ],
+            "total_quantity": 1,
+            "total_amount": 300,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-11-26T04:04:16.973Z",
+            "__v": 0
+        },
+        {
+            "_id": "6562cb3318d0c6d4dbb28162",
+            "selling_id": "1C4A05D0-157C-402A-B2B0-CFF783123F8C",
+            "in_charge": {
+                "_id": "1002",
+                "role": "cashier",
+                "email_address": "2101102216@student.buksu.edu.ph",
+                "first_name": "Nimrod",
+                "middle_name": "Edadis",
+                "last_name": "Paguta",
+                "gender": "Male",
+                "birth_date": "2008-06-11T00:00:00.000Z",
+                "citizenship": "German",
+                "contact_number": 9064584092,
+                "postal_code": 8700,
+                "barangay": "Barrio",
+                "municipality": "Cabanglasan",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1699368619993_valid_id.jpg",
+                "birth_certificate": "uploads\\1699168487720_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOGtZVDdoMXRtUTZsaXF0ZDdzTWtLZmFrWURJSXVFS1cwPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMThBR21OZktzczJMdXNIOVc0djFYWFF5a0R4eTdYRUdTcz0iLCJyb2xlIjoiVTJGc2RHVmtYMTh4eWxWTTlDMVpxSTR3ZjBaWTZrRDNvaVJYY21YODlzRT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS8xbHU5Qml1TFdFM3A0SzJoeEJ3SHE0aGpndi9oRnEzbFRicjZjRUErU2pHUzMzckxoc3U3WiIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGgwRVZJdnM2KzVTZmppRXoxakswSkZxNzN1c0FUVDJFPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS9XcVdKTkZKQW1tMkVDTjlZaFphOW9DcmZpWFdMRkFTOD0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxLzFqandzSkQ3MTFWR0xzVGRMbjlUZVlpQ0lWZ3RaT1BvPSIsImdlbmRlciI6IlUyRnNkR1ZrWDEvWWlXRm0wdHFOdEpieHlRNjBlUEkrNHd2NytadkovbWs9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxODBwcWRhbmFENmFTRHpPRXpBYXFFc05GbzhWSzlFZWNvPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStyNWNZaExkK1pONzM1aHpTeEkvRy92VDFmNTlkYWdYQT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvNmNMVU5Pb3RJWHVtMWJ6MkNJelJwYkMzZ3dPQVhtWGc9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOGtUM2NVQjFzVHpTVDFBanRtSFBENGk1QUp1UkRqdEhvPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErVG5yWTJnb3lKenJ4SGt1ejYzbVd2L1RWaE9YNHZtTkU9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOFNTL3I2ZThpazRHaXAyTGNkaGE0M2k0TWtCV1V4dHY0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTl1SERpbjBnL2hHaCtMM0FrS1NUTWZFaDFDQS9aZFJxRWJzV2tsbUovTE1wOHdsSUdtWnJVRjArYXZzVW9uSnZyUDN3Yi95eEdaM2c9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTlFdWpmMWthVlJ6eVhTdldQbUo3MTJGQk1kUVlNeDRZUG5uQjdPQ0FCOUpxdXdsVnIwTVFCSFRaZXJNUVBPWkZVZ1ZTSzBRcVh1VEE9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxKzJQQmFwWVY3aTBzbnBWZG5QdkJTYVRlT0RjUFhIcU9tZkg2VGNkamRHY1NaSXFOL0dyNXZ2IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvS2xtSlpETXhLcUhwZlkydTlBeVZWREhENFVJSUZyWUNiaUNxV1pkUmM3VElkeGU5U1dpWkMiLCJpYXQiOjE3MDA4NzkyMDF9.a8TNC-VtJhJCPKROVoY7qDxzirHKyHxJuEWuwIebl58",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxL1pCWnpZR3M1Y0tuNWwycCtDV0dncjQ2MGJpRjZ6ZGdjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTkvdjB6cys4cnU0MStUbFM1SG9jQkJLNVE3d1plc1Uwdz0iLCJyb2xlIjoiVTJGc2RHVmtYMTlXV0QvYlQyb01NMEhlaVNVNWtFKy9rVTY4ZGZYdVowOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMSszc0VwVGhXK1lJOVRjUTJtOWF3RXlIOXRRem0wN21TMVM0TkRpaEx5OFh5WGg0SGJVNDFncCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOW1rNEtSMmZwWVdSV3VjL1FKNkJwQnpQaHM2aTdvSFZrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS9iZ1BETjRpV0t4MFRFLzY4VUdtRDBnUmxtUHgxK2o5ND0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxODVLNk13b3YrSU5oa3hpQkFlck9vZnpOc3ozandUTGM4PSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5LzJad0NNK3VPRVRHVWtBMFJEaENkcTRpZWZ3U3NPakE9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK0JKVDVSZldFM1FXUVN0SGhaWG9wSXVNOFZSUHlUQ0M0PSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTlmQnlYRVN5R2JVQ1c0THdqQy9FbkQ5ZmhQOGFEV05lUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvRDRFQzZqclpBNjBMUm1mQk5EWm5OWndVb3gybDJoSlE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOE0yY2pCdFhuUEVMakVWWGlORGtpUTVqRVY4VkJWMFBJPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDE4eGkvOTd4Sk14MDNvaDFHV1VMaEdBN0hTekFCL1lZdEE9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxODhsUWFFc1Nud1dQa1MxTEJSWjI5Nm5jTXZ2cVJndHVjPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMS9nSEdwZ3FaQUFDOXJUVHBHbG9tY1BEanZIMkVOdkNhVHZ3S0lKZHgxMWt2RXNpMFMrVnZWZW4yRnRSR21yeWlZbHZvY0drVER2NEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMSt6dXNxR3dwSndGYlRyRVF6MzZDRThYK3FQM1liMHVoUFQrRVR6azNJZ1AwSXYvRzBMNzZYVHZrN2Jia0tScE80OGNHUGxFWC9QMlE9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxODJNRCtwYkprRTdkTGc1RGZnN2F2TmduYVR4SGdSVXpDYkJxK2tLU0lzN3R2RWRScTF3anJlIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5TlcrejlFUmJOMncweUdmVHczOWpxWnowaVZjSEkrTDZPR3dGVWpyNGlsU0duM0tURlhra3EiLCJpYXQiOjE3MDIzNzQwNjN9.SKiZ5Cbvpa15QnjebfCOw6XTQE3fdMEl0WOET7TS9qM"
+                ],
+                "date_added": "2023-11-02T02:13:17.824Z",
+                "__v": 0,
+                "password": "$2b$10$kVINVA1FO0jXlhiDVdhJl.HFnRCTYYuA8g7I/Fv2Ov3X0VRLI/Hh2",
+                "username": "mr_epee",
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1003",
+                        "product_name": "Regular Lechon Manok",
+                        "price": 280,
+                        "product_description": "Savor the simplicity and deliciousness of our classic Lechon Manok. Expertly roasted to perfection, our signature dish features a crispy golden skin that gives way to succulent, flavorful meat. It's the epitome of a satisfying and fuss-free dining experience. Elevate your meals with the timeless appeal of our regular Lechon Manok – a feast that captures the essence of traditional Filipino flavors.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:41:40.082Z",
+                        "__v": 0
+                    },
+                    "quantity": 3,
+                    "total_amount": 840,
+                    "_id": "6562cb3318d0c6d4dbb28163"
+                }
+            ],
+            "total_quantity": 3,
+            "total_amount": 840,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-11-26T04:36:03.421Z",
+            "__v": 0
+        },
+        {
+            "_id": "6565e483f1b8e1d83467041f",
+            "selling_id": "F525EF4C-8B33-45A7-851C-54E9B65B8436",
+            "in_charge": {
+                "_id": "1002",
+                "role": "cashier",
+                "email_address": "2101102216@student.buksu.edu.ph",
+                "first_name": "Nimrod",
+                "middle_name": "Edadis",
+                "last_name": "Paguta",
+                "gender": "Male",
+                "birth_date": "2008-06-11T00:00:00.000Z",
+                "citizenship": "German",
+                "contact_number": 9064584092,
+                "postal_code": 8700,
+                "barangay": "Barrio",
+                "municipality": "Cabanglasan",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1699368619993_valid_id.jpg",
+                "birth_certificate": "uploads\\1699168487720_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOGtZVDdoMXRtUTZsaXF0ZDdzTWtLZmFrWURJSXVFS1cwPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMThBR21OZktzczJMdXNIOVc0djFYWFF5a0R4eTdYRUdTcz0iLCJyb2xlIjoiVTJGc2RHVmtYMTh4eWxWTTlDMVpxSTR3ZjBaWTZrRDNvaVJYY21YODlzRT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS8xbHU5Qml1TFdFM3A0SzJoeEJ3SHE0aGpndi9oRnEzbFRicjZjRUErU2pHUzMzckxoc3U3WiIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGgwRVZJdnM2KzVTZmppRXoxakswSkZxNzN1c0FUVDJFPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS9XcVdKTkZKQW1tMkVDTjlZaFphOW9DcmZpWFdMRkFTOD0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxLzFqandzSkQ3MTFWR0xzVGRMbjlUZVlpQ0lWZ3RaT1BvPSIsImdlbmRlciI6IlUyRnNkR1ZrWDEvWWlXRm0wdHFOdEpieHlRNjBlUEkrNHd2NytadkovbWs9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxODBwcWRhbmFENmFTRHpPRXpBYXFFc05GbzhWSzlFZWNvPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStyNWNZaExkK1pONzM1aHpTeEkvRy92VDFmNTlkYWdYQT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvNmNMVU5Pb3RJWHVtMWJ6MkNJelJwYkMzZ3dPQVhtWGc9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOGtUM2NVQjFzVHpTVDFBanRtSFBENGk1QUp1UkRqdEhvPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErVG5yWTJnb3lKenJ4SGt1ejYzbVd2L1RWaE9YNHZtTkU9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOFNTL3I2ZThpazRHaXAyTGNkaGE0M2k0TWtCV1V4dHY0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTl1SERpbjBnL2hHaCtMM0FrS1NUTWZFaDFDQS9aZFJxRWJzV2tsbUovTE1wOHdsSUdtWnJVRjArYXZzVW9uSnZyUDN3Yi95eEdaM2c9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTlFdWpmMWthVlJ6eVhTdldQbUo3MTJGQk1kUVlNeDRZUG5uQjdPQ0FCOUpxdXdsVnIwTVFCSFRaZXJNUVBPWkZVZ1ZTSzBRcVh1VEE9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxKzJQQmFwWVY3aTBzbnBWZG5QdkJTYVRlT0RjUFhIcU9tZkg2VGNkamRHY1NaSXFOL0dyNXZ2IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvS2xtSlpETXhLcUhwZlkydTlBeVZWREhENFVJSUZyWUNiaUNxV1pkUmM3VElkeGU5U1dpWkMiLCJpYXQiOjE3MDA4NzkyMDF9.a8TNC-VtJhJCPKROVoY7qDxzirHKyHxJuEWuwIebl58",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxL1pCWnpZR3M1Y0tuNWwycCtDV0dncjQ2MGJpRjZ6ZGdjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTkvdjB6cys4cnU0MStUbFM1SG9jQkJLNVE3d1plc1Uwdz0iLCJyb2xlIjoiVTJGc2RHVmtYMTlXV0QvYlQyb01NMEhlaVNVNWtFKy9rVTY4ZGZYdVowOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMSszc0VwVGhXK1lJOVRjUTJtOWF3RXlIOXRRem0wN21TMVM0TkRpaEx5OFh5WGg0SGJVNDFncCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOW1rNEtSMmZwWVdSV3VjL1FKNkJwQnpQaHM2aTdvSFZrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS9iZ1BETjRpV0t4MFRFLzY4VUdtRDBnUmxtUHgxK2o5ND0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxODVLNk13b3YrSU5oa3hpQkFlck9vZnpOc3ozandUTGM4PSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5LzJad0NNK3VPRVRHVWtBMFJEaENkcTRpZWZ3U3NPakE9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK0JKVDVSZldFM1FXUVN0SGhaWG9wSXVNOFZSUHlUQ0M0PSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTlmQnlYRVN5R2JVQ1c0THdqQy9FbkQ5ZmhQOGFEV05lUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvRDRFQzZqclpBNjBMUm1mQk5EWm5OWndVb3gybDJoSlE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOE0yY2pCdFhuUEVMakVWWGlORGtpUTVqRVY4VkJWMFBJPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDE4eGkvOTd4Sk14MDNvaDFHV1VMaEdBN0hTekFCL1lZdEE9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxODhsUWFFc1Nud1dQa1MxTEJSWjI5Nm5jTXZ2cVJndHVjPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMS9nSEdwZ3FaQUFDOXJUVHBHbG9tY1BEanZIMkVOdkNhVHZ3S0lKZHgxMWt2RXNpMFMrVnZWZW4yRnRSR21yeWlZbHZvY0drVER2NEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMSt6dXNxR3dwSndGYlRyRVF6MzZDRThYK3FQM1liMHVoUFQrRVR6azNJZ1AwSXYvRzBMNzZYVHZrN2Jia0tScE80OGNHUGxFWC9QMlE9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxODJNRCtwYkprRTdkTGc1RGZnN2F2TmduYVR4SGdSVXpDYkJxK2tLU0lzN3R2RWRScTF3anJlIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5TlcrejlFUmJOMncweUdmVHczOWpxWnowaVZjSEkrTDZPR3dGVWpyNGlsU0duM0tURlhra3EiLCJpYXQiOjE3MDIzNzQwNjN9.SKiZ5Cbvpa15QnjebfCOw6XTQE3fdMEl0WOET7TS9qM"
+                ],
+                "date_added": "2023-11-02T02:13:17.824Z",
+                "__v": 0,
+                "password": "$2b$10$kVINVA1FO0jXlhiDVdhJl.HFnRCTYYuA8g7I/Fv2Ov3X0VRLI/Hh2",
+                "username": "mr_epee",
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1005",
+                        "product_name": "Regular Liempo",
+                        "price": 330,
+                        "product_description": "Indulge in the simple yet sublime pleasure of our Regular Liempo. Immerse yourself in the savory delight of perfectly grilled pork belly, offering a crisp exterior and tender, juicy layers within. It's a classic choice that captures the essence of traditional flavors, providing a satisfying and straightforward culinary experience. Elevate your dining moments with the timeless appeal of our Regular Liempo—a delicious journey into the heart of well-executed simplicity.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:43:57.192Z",
+                        "__v": 0
+                    },
+                    "quantity": 6,
+                    "total_amount": 1980,
+                    "_id": "6565e483f1b8e1d834670420"
+                },
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 3,
+                    "total_amount": 900,
+                    "_id": "6565e483f1b8e1d834670421"
+                }
+            ],
+            "total_quantity": 9,
+            "total_amount": 2880,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-11-28T13:00:51.550Z",
+            "__v": 0
+        },
+        {
+            "_id": "6577e78e22e722f64232bcf0",
+            "selling_id": "FD6E8208-A359-459A",
+            "in_charge": {
+                "_id": "1004",
+                "username": "juhanie",
+                "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                "role": "supervisor",
+                "email_address": "nimrodpaguta4@gmail.com",
+                "first_name": "Jurhanie",
+                "middle_name": "Talong",
+                "last_name": "Dum-ogan",
+                "gender": "Female",
+                "birth_date": "2004-02-12T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9068975643,
+                "postal_code": 8700,
+                "barangay": "Barangay 9",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                "refresh_tokens": [],
+                "date_added": "2023-11-02T02:19:41.646Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1005",
+                        "product_name": "Regular Liempo",
+                        "price": 330,
+                        "product_description": "Indulge in the simple yet sublime pleasure of our Regular Liempo. Immerse yourself in the savory delight of perfectly grilled pork belly, offering a crisp exterior and tender, juicy layers within. It's a classic choice that captures the essence of traditional flavors, providing a satisfying and straightforward culinary experience. Elevate your dining moments with the timeless appeal of our Regular Liempo—a delicious journey into the heart of well-executed simplicity.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:43:57.192Z",
+                        "__v": 0
+                    },
+                    "quantity": 2,
+                    "total_amount": 660,
+                    "_id": "6577e78e22e722f64232bcf1"
+                }
+            ],
+            "total_quantity": 2,
+            "total_amount": 660,
+            "branch": {
+                "_id": "1003",
+                "supervisor": {
+                    "_id": "1004",
+                    "username": "juhanie",
+                    "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                    "role": "supervisor",
+                    "email_address": "nimrodpaguta4@gmail.com",
+                    "first_name": "Jurhanie",
+                    "middle_name": "Talong",
+                    "last_name": "Dum-ogan",
+                    "gender": "Female",
+                    "birth_date": "2004-02-12T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9068975643,
+                    "postal_code": 8700,
+                    "barangay": "Barangay 9",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                    "refresh_tokens": [],
+                    "date_added": "2023-11-02T02:19:41.646Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Kalasungay",
+                "municipality": "Tagum",
+                "province": "Davao",
+                "opening_date": "2023-12-08T00:00:00.000Z",
+                "branch_name": "Branch 3",
+                "employees": [
+                    "1007"
+                ],
+                "date_added": "2023-11-03T02:09:30.253Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-12T04:54:38.072Z",
+            "__v": 0
+        },
+        {
+            "_id": "6577eb3d22e722f64232bd8b",
+            "selling_id": "0D80CD37-4DB6-4C4A",
+            "in_charge": {
+                "_id": "1004",
+                "username": "juhanie",
+                "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                "role": "supervisor",
+                "email_address": "nimrodpaguta4@gmail.com",
+                "first_name": "Jurhanie",
+                "middle_name": "Talong",
+                "last_name": "Dum-ogan",
+                "gender": "Female",
+                "birth_date": "2004-02-12T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9068975643,
+                "postal_code": 8700,
+                "barangay": "Barangay 9",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                "refresh_tokens": [],
+                "date_added": "2023-11-02T02:19:41.646Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1005",
+                        "product_name": "Regular Liempo",
+                        "price": 330,
+                        "product_description": "Indulge in the simple yet sublime pleasure of our Regular Liempo. Immerse yourself in the savory delight of perfectly grilled pork belly, offering a crisp exterior and tender, juicy layers within. It's a classic choice that captures the essence of traditional flavors, providing a satisfying and straightforward culinary experience. Elevate your dining moments with the timeless appeal of our Regular Liempo—a delicious journey into the heart of well-executed simplicity.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:43:57.192Z",
+                        "__v": 0
+                    },
+                    "quantity": 1,
+                    "total_amount": 330,
+                    "_id": "6577eb3d22e722f64232bd8c"
+                }
+            ],
+            "total_quantity": 1,
+            "total_amount": 330,
+            "branch": {
+                "_id": "1003",
+                "supervisor": {
+                    "_id": "1004",
+                    "username": "juhanie",
+                    "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                    "role": "supervisor",
+                    "email_address": "nimrodpaguta4@gmail.com",
+                    "first_name": "Jurhanie",
+                    "middle_name": "Talong",
+                    "last_name": "Dum-ogan",
+                    "gender": "Female",
+                    "birth_date": "2004-02-12T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9068975643,
+                    "postal_code": 8700,
+                    "barangay": "Barangay 9",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                    "refresh_tokens": [],
+                    "date_added": "2023-11-02T02:19:41.646Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Kalasungay",
+                "municipality": "Tagum",
+                "province": "Davao",
+                "opening_date": "2023-12-08T00:00:00.000Z",
+                "branch_name": "Branch 3",
+                "employees": [
+                    "1007"
+                ],
+                "date_added": "2023-11-03T02:09:30.253Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-12T05:10:21.880Z",
+            "__v": 0
+        },
+        {
+            "_id": "65787ca8143327202ddb4270",
+            "selling_id": "C55F3865-B1A0-46B5",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                ],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 5,
+                    "total_amount": 1500,
+                    "_id": "65787ca8143327202ddb4271"
+                },
+                {
+                    "product": {
+                        "_id": "1003",
+                        "product_name": "Regular Lechon Manok",
+                        "price": 280,
+                        "product_description": "Savor the simplicity and deliciousness of our classic Lechon Manok. Expertly roasted to perfection, our signature dish features a crispy golden skin that gives way to succulent, flavorful meat. It's the epitome of a satisfying and fuss-free dining experience. Elevate your meals with the timeless appeal of our regular Lechon Manok – a feast that captures the essence of traditional Filipino flavors.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:41:40.082Z",
+                        "__v": 0
+                    },
+                    "quantity": 1,
+                    "total_amount": 280,
+                    "_id": "65787ca8143327202ddb4272"
+                }
+            ],
+            "total_quantity": 6,
+            "total_amount": 1780,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-12T15:30:48.666Z",
+            "__v": 0
+        },
+        {
+            "_id": "65787e64143327202ddb433a",
+            "selling_id": "3C3932CB-EDF3-4F7F",
+            "in_charge": {
+                "_id": "1004",
+                "username": "juhanie",
+                "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                "role": "supervisor",
+                "email_address": "nimrodpaguta4@gmail.com",
+                "first_name": "Jurhanie",
+                "middle_name": "Talong",
+                "last_name": "Dum-ogan",
+                "gender": "Female",
+                "birth_date": "2004-02-12T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9068975643,
+                "postal_code": 8700,
+                "barangay": "Barangay 9",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                "refresh_tokens": [],
+                "date_added": "2023-11-02T02:19:41.646Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1005",
+                        "product_name": "Regular Liempo",
+                        "price": 330,
+                        "product_description": "Indulge in the simple yet sublime pleasure of our Regular Liempo. Immerse yourself in the savory delight of perfectly grilled pork belly, offering a crisp exterior and tender, juicy layers within. It's a classic choice that captures the essence of traditional flavors, providing a satisfying and straightforward culinary experience. Elevate your dining moments with the timeless appeal of our Regular Liempo—a delicious journey into the heart of well-executed simplicity.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:43:57.192Z",
+                        "__v": 0
+                    },
+                    "quantity": 2,
+                    "total_amount": 660,
+                    "_id": "65787e64143327202ddb433b"
+                }
+            ],
+            "total_quantity": 2,
+            "total_amount": 660,
+            "branch": {
+                "_id": "1003",
+                "supervisor": {
+                    "_id": "1004",
+                    "username": "juhanie",
+                    "password": "$2b$10$JYY0hPVvQbBYKbvQ0rKckOJNc42G.BLIq94Z5oM9okmc4dXlRuNTW",
+                    "role": "supervisor",
+                    "email_address": "nimrodpaguta4@gmail.com",
+                    "first_name": "Jurhanie",
+                    "middle_name": "Talong",
+                    "last_name": "Dum-ogan",
+                    "gender": "Female",
+                    "birth_date": "2004-02-12T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9068975643,
+                    "postal_code": 8700,
+                    "barangay": "Barangay 9",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891579410_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891579412_birthcertificate.pdf",
+                    "refresh_tokens": [],
+                    "date_added": "2023-11-02T02:19:41.646Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Kalasungay",
+                "municipality": "Tagum",
+                "province": "Davao",
+                "opening_date": "2023-12-08T00:00:00.000Z",
+                "branch_name": "Branch 3",
+                "employees": [
+                    "1007"
+                ],
+                "date_added": "2023-11-03T02:09:30.253Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-12T15:38:12.153Z",
+            "__v": 0
+        },
+        {
+            "_id": "65796a317834a369cbf1c9fd",
+            "selling_id": "E7071708-41EC-4FD9",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                ],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1004",
+                        "product_name": "Spicy Lechon Manok",
+                        "price": 300,
+                        "product_description": "Ignite your taste buds with the fiery kick of our Spicy Lechon Manok. Picture succulent roasted chicken, its crispy skin infused with a bold blend of spices that pack a flavorful punch. Each bite is a thrilling journey of heat and savory goodness, creating a memorable and spicy culinary experience. Spice up your meals with our specialty Spicy Lechon Manok – a tantalizing twist on the classic that adds an extra dimension of flavor to your dining adventure.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:42:55.532Z",
+                        "__v": 0
+                    },
+                    "quantity": 1,
+                    "total_amount": 300,
+                    "_id": "65796a317834a369cbf1c9fe"
+                }
+            ],
+            "total_quantity": 1,
+            "total_amount": 300,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-13T08:24:17.606Z",
+            "__v": 0
+        },
+        {
+            "_id": "6579b1993d079819fa88fd07",
+            "selling_id": "491ECD15-0973-43E8",
+            "in_charge": {
+                "_id": "1003",
+                "username": "lotlot",
+                "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                "role": "supervisor",
+                "email_address": "amieljayocier@gmail.com",
+                "first_name": "Charlotte",
+                "middle_name": "Timogan",
+                "last_name": "Nulo",
+                "gender": "Female",
+                "birth_date": "2022-04-08T00:00:00.000Z",
+                "citizenship": "Filipino",
+                "contact_number": 9065749821,
+                "postal_code": 8700,
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                "refresh_tokens": [
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                ],
+                "date_added": "2023-11-02T02:17:29.107Z",
+                "__v": 0,
+                "archived": false
+            },
+            "products": [
+                {
+                    "product": {
+                        "_id": "1003",
+                        "product_name": "Regular Lechon Manok",
+                        "price": 280,
+                        "product_description": "Savor the simplicity and deliciousness of our classic Lechon Manok. Expertly roasted to perfection, our signature dish features a crispy golden skin that gives way to succulent, flavorful meat. It's the epitome of a satisfying and fuss-free dining experience. Elevate your meals with the timeless appeal of our regular Lechon Manok – a feast that captures the essence of traditional Filipino flavors.",
+                        "category": "Product",
+                        "date_added": "2023-11-13T15:41:40.082Z",
+                        "__v": 0
+                    },
+                    "quantity": 11,
+                    "total_amount": 3080,
+                    "_id": "6579b1993d079819fa88fd08"
+                }
+            ],
+            "total_quantity": 11,
+            "total_amount": 3080,
+            "branch": {
+                "_id": "1000",
+                "supervisor": {
+                    "_id": "1003",
+                    "username": "lotlot",
+                    "password": "$2b$10$2IYZaTQntM2qVVDozOjet.FT5IoMJYPlEoZDsJ2deioMHSV0CT.VS",
+                    "role": "supervisor",
+                    "email_address": "amieljayocier@gmail.com",
+                    "first_name": "Charlotte",
+                    "middle_name": "Timogan",
+                    "last_name": "Nulo",
+                    "gender": "Female",
+                    "birth_date": "2022-04-08T00:00:00.000Z",
+                    "citizenship": "Filipino",
+                    "contact_number": 9065749821,
+                    "postal_code": 8700,
+                    "barangay": "Lantapan",
+                    "municipality": "Malaybalay",
+                    "province": "Bukidnon",
+                    "valid_id": "uploads\\1698891447739_valid_id.jpg",
+                    "birth_certificate": "uploads\\1698891447740_birthcertificate.pdf",
+                    "refresh_tokens": [
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTBJb1g5Unk5UkJRb1FCY3AwZGk2a2hoU1BkU0pBYlM4PSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS93UGJIbUFya0U2b0dSaHVEVnJqa1laOFZjYTJaWDVMZz0iLCJyb2xlIjoiVTJGc2RHVmtYMS9ZVjlqSUNCeU1ERGU3cHJDSFZLQ2JoeTNvcUJiVzdUOD0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMStUeHdwU2Eyc3g4bUpjLzFJQmtaMmZaSi9mQUZubUcvS3RTU2xrOG83eW5FQ3RlYWgycjNZUSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NGSmJhT3RId1REdFg1MXUzc25FUjdiaXBEbWJtRGFrPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMS92bUIybUt4RUN4bnVWeHczYTc4NUk4bkFZOVVXVjhyTT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxKzliRTlVOFYvZ3VVbzliMjBtTGJaVW9ZSVl2akJjNXhBPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4a3JXVjdNSk9uUHBheFVZRTlIUWJ1TTZpZzNqR2VrbHM9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOXluTDREZzlnU0pEOTR4NGFscjZBdG5QakZIL0RnS3JBPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMThHUTZiNnJ3ZXlMNitkaXVqcFJWQXVZREpJWTFEZU02cz0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDErRnN1dEJlY1MyTVhRczRjNHVqSWc1N0szVWFHamlFUnM9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOFphY0tmRW15RkViWkVsdVA4UE45TitDUldDdGNGYktNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvVG5zQ3lyNWtoNWFnU3hCN0V1TDVPOEFqQlgwbG8yN2s9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL3IyRFJWL2JKUjF5d0NUQmtzdVVIRzM1SFFwVG8xSVc0PSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTg4eVFsbHFZK2UzcXQveWhjNFE2MWhnQnpET0w0cnM3T3QxTzdqdjVUdS9lWitKNG9XcjVqMk5uaUZHNFp1bFJkQUNVanZOYUJXSmc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMTkrNVhoWU1NbGY3dFNQS3hqSFFJT3BIOCtZbS9VeGRDSDRUMWdMRS8yMEFuWFdhZ1dNcEFRcmFBWkpmclMyVHg4YXoxRGg1WjRENmc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxK2pCRTlUSFFTNit0Mlp4YXczR3hmMk1IdUZmZ2VVWG9BeDhkTGYrMStoQ1RxNjI3MTZZMHBQIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDErQlBpTmo4anpCWG5DQTFQQjhUVTFxOGI1WVhNSnZLZU9WQU1OK216c0RoWkw1dVFZZExCRDYiLCJpYXQiOjE2OTk4OTA5NTZ9.96mG0fbRcmEcSYbVa0bWyig_TOg_d3fkdCi4t1wJv4o",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDI3OTMzOX0.GBTvq6WtqqaCUTXk21-AHw1s4QER-sdh08hYGobR7C0",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJpYXQiOjE3MDAyNzk0OTN9.FftNQ6qu4M5w4cAKK64-OnnlNyfT0AXgFIGO487wlKw",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiIxMDAzIiwidXNlcm5hbWUiOiJsb3Rsb3QiLCJyb2xlIjoic3VwZXJ2aXNvciIsImVtYWlsX2FkZHJlc3MiOiJhbWllbGpheW9jaWVyQGdtYWlsLmNvbSIsImZpcnN0X25hbWUiOiJDaGFybG90dGUiLCJtaWRkbGVfbmFtZSI6IlRpbW9nYW4iLCJsYXN0X25hbWUiOiJOdWxvIiwiZ2VuZGVyIjoiRmVtYWxlIiwiY2l0aXplbnNoaXAiOiJGaWxpcGlubyIsImNvbnRhY3RfbnVtYmVyIjoiOTA2NTc0OTgyMSIsInBvc3RhbF9jb2RlIjoiODcwMCIsImJhcmFuZ2F5IjoiTGFudGFwYW4iLCJtdW5pY2lwYWxpdHkiOiJNYWxheWJhbGF5IiwicHJvdmluY2UiOiJCdWtpZG5vbiIsInZhbGlkX2lkIjoidXBsb2Fkc1xcMTY5ODg5MTQ0NzczOV92YWxpZF9pZC5qcGciLCJiaXJ0aF9jZXJ0aWZpY2F0ZSI6InVwbG9hZHNcXDE2OTg4OTE0NDc3NDBfYmlydGhjZXJ0aWZpY2F0ZS5wZGYiLCJkYXRlX2FkZGVkIjoiMjAyMy0xMS0wMlQwMjoxNzoyOS4xMDdaIiwiYmlydGhfZGF0ZSI6IjIwMjItMDQtMDhUMDA6MDA6MDAuMDAwWiIsImlhdCI6MTcwMDgzMTEwN30.4DxSOLD58mU-04drUZ3lUWtqK3wpJa8ctTeyhIp24dI",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOVZIWXROTm5rM0RQRXB4eDJ1QWpCVjUvV3Y3cW9xME5rPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMTlHc2p1a0dmRklZUllET3J2b29vTzQvcGtUTWVxV1YyMD0iLCJyb2xlIjoiVTJGc2RHVmtYMTlrT2FKbVNCUjVBOUUzQy90MjBOUGFnVmFLMFhZaFBMZz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMTl3cmhzQnNnRUhmVFRSRzdGRlJtSWk0NFBaakh0aXlCWHo5cXNwQ1QyMEJQWWNGYmRCWWJpMSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxK1NBY1dtd0ZBajR0MzFGbmluOWdveDBRd2hjemNHUGJZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMThsWmV0ZFlXMFJ5d0ljZDVSK3dXd0plQU1JUnVpbENndz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxL2thSkZoMVFXejFaVjlRVFNTakY1bmFLN3g3VkxML05jPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE5MnAveW8wNVdPTXhtbE9NSDNhL1BZUDFzY1FrQS9OZkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxKzhpWW9pYmIvdGhyL0RIejUwY29IbFh2TXFLN1k1SUljPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTkzUkJQU05qMmJ5YjUrNVlWRTVqTmYwOEJtbkNmV1VuUT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvdzN0Zm9hMTIyNWVOTU9kd2hSZEg5WnNzcTd4M3hyMFk9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOEZNYTNuR1A2WHl3aGhQTW1ielcyY3M1Mi9NR3F4SmVrPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDErazRuN0FXczhxZjJwOEtDeFFNbzJTWWdBeENQYjBkSnM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxK3VMb3JDYURKTlJJbEdHaG9HNEtUWGhuSlc1dllnYVFFPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTlyajdHMnRydmdKdXFhbDk2SWtqdFRBNjhiUFAyejZZVVZ0aGJ6dnhBVWREWFJKYmhFaDRkK2RtZXRUS3RSdk4rSWh6U1REMnNpdFE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStMWENiUkE2blU0TDVMNkh2aCtVWjJBN2VtRFUvT2NwWmZOL2oyUmJhZTJiYjZRK1l2S0tVRitrK1Fzcm1qWkRqek45ZE5WMEREUXc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOXhuSHJQYU90UHlsamxIbmxuNTVSTSt1di9jODd3RlM4WmlMYkJhZFgycFFsTFcwUjdDU2FIIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDEvRysyVHlzVzAxQU1QUVZ3OXBBbzNoSys3NnJkeFdqOEdyRXIrQ3ZvQ2xiUjAxV2UvQzljTVgiLCJpYXQiOjE3MDExNzkxMjZ9.oXdG3_5kFw0gvdgWEGkU4jyVvLNionYIGb7YHyNeG1I",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOTFmTmZwazNoR25raktlUzVtNGtacWVMb1FxN0pyUGRvPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMS9UWVV1cjNPZ1dIYWFSWUJqWjZpUEhUSDFtWVB6R0JYND0iLCJyb2xlIjoiVTJGc2RHVmtYMS8yK3N5YTM4SmVFNks3emFMVTA5RTAvRzh1aENoZjMydz0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9NbGxUcUpiTi9BTVprV2NyRzFYYkI3SlJNeWtxclE1YnF1eUkwRVV6b1dlWmthV21icHc0VCIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOHRGK1R4Rm5pazFDUU8weGR1MzJMSUhvZDhBd3Bid1RnPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMStTNDQ0T3Y4Z0lsc1ROZ0lyeVRJQmNhbTcwTkZ0VUp1VT0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK1BFVW5IQmpVUVNmS2h4UGpOVGNXVTVYZVY1NDhtbDlFPSIsImdlbmRlciI6IlUyRnNkR1ZrWDErRGN2Y1Y3QnNhMVhzeEVQRlROcUJ0ZUhFOXhjdmkxNU09IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxK1FBL3U0MitkMUtjM0YvL2NzcHZJNGVRVmdIQUpQQ05FPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMStzb2lQamU0YTJsYkpZcXhiRHg0aUNPNURxbEo3L1UxST0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvYXkxVVZVUjlzSEFOTWJ2WDZ2VWwrd2FsUnQzSU9rREE9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxOXhiL1dLTHFMVXFrdWV4YktNaHF6aDVZMERuL1NSbGFNPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvWUZqSW5sYUd3Q3NEN01uZkxqTGVuMmtuYUNkV3FWdGM9IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxOUNQUCtvRnMvU3YrYklSaTFHVnp4OUZQY3ZkMGY3bUpZPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTliRVF0L0krcXZIdHFYU1g2WWlYSjl4ZHVXRDhqVFg2SmQ3YlJ4WWVhY3gvOHh0Skx0bGtodmllZktwQytVVW83MWg4T0NnK3oxVEE9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMThHQ2pacEhSUXArRDgyNGhxMFRoakdoZGk0U1U0YWhMa3hwYUFzK1FYQ3dQWHAvMzl6ZStlN0JhY0VQMUp6alJvTmdVM0s0bXArcHc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOG9yd0NtQWN0bjE3MCtPYjNVbDV4di9oMmxHVUJpTTd3UzRrVDR6OE0zMllUaWhRSFJmNlBVIiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE5M2xtU0RQZWdJZlN5RENvSVNITGRqM1c1OG5HZ1l3ME5td05hc2Naa0tCakhNN1ZJWlNJLzYiLCJpYXQiOjE3MDIzNzQzNzJ9.7yE9S9JbwSOVqaecVQLECZASeMhkddnkgnWwUyuvBJA",
+                        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiJVMkZzZEdWa1gxOWI1V21TdWhhcFk3WSsrWGxPYlhKMXNxODFtZWVQMXpjPSIsInVzZXJuYW1lIjoiVTJGc2RHVmtYMSt1SVBWWnhGQlkvd1JadFlCcjhxbVlwMGJVTGVWNUNsTT0iLCJyb2xlIjoiVTJGc2RHVmtYMThpNmVCUXZxYWFZekFJemRiUHVmeE5PZ25wRlQvWnBBVT0iLCJlbWFpbF9hZGRyZXNzIjoiVTJGc2RHVmtYMS9oKzJFZUx1ZEYydlZ0S3NUamsxQ09VeEhON1BLSnFsd2liTk1QVm9uMjNGVTlWQUZNU1hCOSIsImZpcnN0X25hbWUiOiJVMkZzZEdWa1gxOGVyZ0grSkVsMFozVGUyZ2d4RDQrRmlaUnBQb0c1Z0FZPSIsIm1pZGRsZV9uYW1lIjoiVTJGc2RHVmtYMTlyOFh2bjJ6UHNIc1NxQXVScnZsb2pMbFYvaC9Na2lkdz0iLCJsYXN0X25hbWUiOiJVMkZzZEdWa1gxK2VxcFZua0prRWdNNjVJanNaTEwrSXZOTVpFbDlBVmdjPSIsImdlbmRlciI6IlUyRnNkR1ZrWDE4cDZobnlmaWFiVkR6N0lNK1RRWCtBd1hUSndXMHJIMkU9IiwiY2l0aXplbnNoaXAiOiJVMkZzZEdWa1gxOTJvMG1DdzRxNHRiaGlxWDI5NnNObis2Z2hVUzN3MFZNPSIsImNvbnRhY3RfbnVtYmVyIjoiVTJGc2RHVmtYMTgwWmNSVkszRmV5T3hlNlNFenpQMm53a3daUHgvMzczVT0iLCJwb3N0YWxfY29kZSI6IlUyRnNkR1ZrWDEvU2hUSks5dERsSXNyb095Y0drNFdmT2Z2dEM1ZGFlTTQ9IiwiYmFyYW5nYXkiOiJVMkZzZEdWa1gxKzdERkFPRkRjRVM5LzdhaTU3Rks2Q0VTZXd3OUFmMG5FPSIsIm11bmljaXBhbGl0eSI6IlUyRnNkR1ZrWDEvY2s2Wnl4RU8yOSt6Ri9sckxrdXdYdFdrYzJDbTNMUE09IiwicHJvdmluY2UiOiJVMkZzZEdWa1gxL0R2aW9OT3JZdjFnMWJGV3FlSTRmNXlYekJZN2JsVUNzPSIsInZhbGlkX2lkIjoiVTJGc2RHVmtYMTh1RTlFbHE3Z1ljSURoNjFiYk9PMnJDWG5uZnBkZC8yMTV4cGIyZTc2cy9pNlBXZEo0N0xYWG1rWjNpMmUxbnQwQkpEeUpQaWZ5OHc9PSIsImJpcnRoX2NlcnRpZmljYXRlIjoiVTJGc2RHVmtYMStPS3E3UmVwUkVwQzFYN0lNQlgrRlNoUXROSWVsMFN6NVFReFgwbHZNMXJwRXVoWlRFRDFIZllUbCtOc0IzRjN4OUtlb0IzY1l3amc9PSIsImRhdGVfYWRkZWQiOiJVMkZzZEdWa1gxOFVEZFJ6TnF4UVNMMnppbzhwWm1kVTAvY0JZNGpiaWhIQlQ1SWh4U21TUW9RWFlPUlpaSkE3IiwiYmlydGhfZGF0ZSI6IlUyRnNkR1ZrWDE4YUVBTzFYRk1SaGh6Q2Q3WlRmUkszNlZOaEdGOFdBdDgzUXpoUHYzczFrWEZSdnVoK1cySTUiLCJpYXQiOjE3MDI1NjE0NDl9.KSDhulApM33jq4cmkANLNM4SWiJI5b8AG4jHDuFQ9v0"
+                    ],
+                    "date_added": "2023-11-02T02:17:29.107Z",
+                    "__v": 0,
+                    "archived": false
+                },
+                "barangay": "Lantapan",
+                "municipality": "Malaybalay",
+                "province": "Bukidnon",
+                "opening_date": "2023-12-09T00:00:00.000Z",
+                "branch_name": "Branch 1",
+                "employees": [
+                    "1002",
+                    "1005"
+                ],
+                "date_added": "2023-11-03T01:18:31.814Z",
+                "__v": 0,
+                "archived": false
+            },
+            "date_added": "2023-12-13T13:28:57.469Z",
+            "__v": 0
+        }
+    ]
+}
