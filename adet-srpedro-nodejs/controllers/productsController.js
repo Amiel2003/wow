@@ -24,19 +24,19 @@ async function editProduct(req,res){
     const attribute = productInfo.attribute
     const updateProduct = await updateData(id, value, attribute, ProductModel)
     if (updateProduct === true) {
-        return res.status(200).json({message: 'Employee updated successfully!'})
+        return res.status(200).json({message: 'Product updated successfully!'})
     }
 }
 
 async function getProductByID(req,res,id){
     const product = await retrieveDataFromCollection('_id',id,ProductModel)
     const encryptedData = CryptoJS.AES.encrypt(JSON.stringify(product), secretKey).toString();
-    return res.status(200).json({product: encryptedData})
+    return res.status(200).json({product: product})
 }
 
 async function archiveProduct(req,res){
     id = req.body.id
-    const decryptedID = CryptoJS.AES.decrypt(req.body.id, secretKey).toString(CryptoJS.enc.Utf8)
+    // const decryptedID = CryptoJS.AES.decrypt(req.body.id, secretKey).toString(CryptoJS.enc.Utf8)
     const result = await handleArchive(id, ProductModel, '_id', ArchiveProduct)
     return res.json(result)
 }
