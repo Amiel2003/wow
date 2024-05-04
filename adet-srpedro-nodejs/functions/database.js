@@ -341,6 +341,7 @@ async function addProduct(data) {
     const existingProduct = await collection.findOne({ _id: data._id });
 
     if (existingProduct) {
+      console.log("Product ID already exist")
       return { status: 400, message: "Product ID already exist" }
     } else {
       const pushProduct = pushToProductsInInventory(data._id)
@@ -348,9 +349,11 @@ async function addProduct(data) {
         const newProduct = new Product(data)
         const result = await newProduct.save()
         if (result) {
+          console.log("Product added succesfully")
           return { status: 200, message: "Product added succesfully" }
         }
       } else {
+        console.log("Error pushing product to inventories")
         return { status: 500, message: "Error pushing product to inventories" }
       }
     }
