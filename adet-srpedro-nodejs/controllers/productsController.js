@@ -8,6 +8,8 @@ const ArchiveProduct = require('../models/archiveProductModel')
 async function getAllProducts(req,res){
     const productsData = await retrieveCollection('Products')
     const encryptedData = CryptoJS.AES.encrypt(JSON.stringify(productsData), secretKey).toString();
+    console.log(productsData)
+    console.log("Someone is getting the products")
     return res.status(200).json({products: productsData})
 }
 
