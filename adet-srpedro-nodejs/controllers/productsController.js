@@ -14,8 +14,8 @@ async function getAllProducts(req,res){
 async function insertProduct(req,res){
     product = req.body
     console.log('This is the product (controller): ', product.nameValuePairs)
-    // const result = await addProduct(product)
-    // return res.json(result)
+    const result = await addProduct(product.nameValuePairs)
+    return res.json(result)
 }
 
 async function editProduct(req,res){
