@@ -1,6 +1,6 @@
 const CryptoJS = require('crypto-js')
 const secretKey = process.env.CRYPTOJS_SECRET_KEY
-const {addProduct,updateData,handleArchive} = require('../functions/database')
+const {addProduct,updateData,handleArchive,deleteDataFromCollection} = require('../functions/database')
 const {retrieveCollection,retrieveDataFromCollection} = require('../functions/database')
 const ProductModel = require('../models/productsModel')
 const ArchiveProduct = require('../models/archiveProductModel')
@@ -38,9 +38,9 @@ async function getProductByID(req,res,id){
 }
 
 async function archiveProduct(req,res){
-    id = req.body.id
-    // const decryptedID = CryptoJS.AES.decrypt(req.body.id, secretKey).toString(CryptoJS.enc.Utf8)
-    const result = await handleArchive(id, ProductModel, '_id', ArchiveProduct)
+    id = req.body
+    console.log("id to be deleted (controller): ", id.nameValuePairs)
+    const result = await deleteDataFromCollection('_id',id,ProductModel)
     return res.json(result)
 }
 

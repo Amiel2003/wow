@@ -56,6 +56,26 @@ async function retrieveDataFromCollection(field, argument, model) {
   }
 }
 
+async function deleteDataFromCollection(field, argument, model) {
+  try {
+    // Define the filter object based on the field and argument
+    const filter = {};
+    filter[field] = argument;
+
+    // Delete the data from the MongoDB collection
+    const result = await model.deleteMany(filter);
+
+    // Log the result of the deletion
+    console.log(`${result.deletedCount} document(s) deleted`);
+
+    return result;
+  } catch (error) {
+    console.error('Error deleting data from MongoDB:', error);
+    throw error; // Optionally, rethrow the error to handle it elsewhere
+  }
+}
+
+
 async function insertRefreshToken(refreshToken, username_filter) {
   try {
     const database = client.db(process.env.DB_NAME);
@@ -826,5 +846,6 @@ module.exports = {
   unarchiveBranchInDatabase,
   handleInventoryArchive,
   unarchiveInventoryInDatabase,
-  updateSupply
+  updateSupply,
+  deleteDataFromCollection
 };
