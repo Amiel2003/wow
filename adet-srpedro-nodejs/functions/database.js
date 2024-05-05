@@ -342,7 +342,7 @@ async function addProduct(data) {
 
     if (existingProduct) {
       console.log("Product ID already exist")
-      return { status: 400, message: "Product ID already exist" }
+      return "Product ID already exist";
     } else {
       const pushProduct = pushToProductsInInventory(data._id)
       if (pushProduct) {
