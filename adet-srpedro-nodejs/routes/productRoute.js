@@ -22,7 +22,7 @@ router.get('/:id',(req,res)=>{
     getProductByID(req,res,id)
 })
 
-router.post('/archive', async (req,res) => {
+router.post('/delete', async (req,res) => {
     archiveProduct(req,res)
 })
 
