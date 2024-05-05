@@ -346,7 +346,9 @@ async function addProduct(data) {
     } else {
       const pushProduct = pushToProductsInInventory(data._id)
       if (pushProduct) {
+        console.log('This is the product (database): ', product)
         const newProduct = new Product(data)
+        console.log('This is the new product (database): ', newProduct)
         const result = await newProduct.save()
         if (result) {
           console.log("Product added succesfully")

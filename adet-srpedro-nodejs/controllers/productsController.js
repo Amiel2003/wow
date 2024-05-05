@@ -12,8 +12,9 @@ async function getAllProducts(req,res){
 }
 
 async function insertProduct(req,res){
-    // const decryptedData = JSON.parse(CryptoJS.AES.decrypt(req.body.data, secretKey).toString(CryptoJS.enc.Utf8));
-    const result = await addProduct(req.body.data)
+    product = req.body.data
+    console.log('This is the product (controller): ', product)
+    const result = await addProduct(product)
     return res.json(result)
 }
 
