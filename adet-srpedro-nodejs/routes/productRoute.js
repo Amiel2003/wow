@@ -22,7 +22,7 @@ router.get('/:id',(req,res)=>{
     getProductByID(req,res,id)
 })
 
-router.post('/delete/:id', async (req,res) => {
+router.delete('/delete/:id', async (req,res) => {
     console.log("DELETE ROUTE")
     const id = req.params.id
     // archiveProduct(req,res)
