@@ -22,9 +22,10 @@ router.get('/:id',(req,res)=>{
     getProductByID(req,res,id)
 })
 
-router.post('/delete', async (req,res) => {
+router.post('/delete/:id', async (req,res) => {
     console.log("DELETE ROUTE")
-    archiveProduct(req,res)
+    const id = req.params.id
+    // archiveProduct(req,res)
 })
 
 module.exports = router
