@@ -12,7 +12,7 @@ async function getAllProducts(req,res){
 }
 
 async function insertProduct(req,res){
-    product = req.body.data
+    product = req.body
     console.log('This is the product (controller): ', product)
     const result = await addProduct(product)
     return res.json(result)
