@@ -25,7 +25,8 @@ router.get('/:id',(req,res)=>{
 router.delete('/delete/:id', async (req,res) => {
     console.log("DELETE ROUTE")
     const id = req.params.id
-    // archiveProduct(req,res)
+    console.log(id)
+    // archiveProduct(req,res,id)
 })
 
 module.exports = router

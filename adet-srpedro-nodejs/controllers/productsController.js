@@ -37,7 +37,7 @@ async function getProductByID(req,res,id){
     return res.status(200).json({product: product})
 }
 
-async function archiveProduct(req,res){
+async function archiveProduct(req,res,id){
     id = req.body
     console.log("id to be deleted (controller): ", id.nameValuePairs)
     const result = await deleteDataFromCollection('_id',id,ProductModel)
