@@ -23,6 +23,7 @@ router.get('/:id',(req,res)=>{
 })
 
 router.post('/delete', async (req,res) => {
+    console.log("DELETE ROUTE")
     archiveProduct(req,res)
 })
 
