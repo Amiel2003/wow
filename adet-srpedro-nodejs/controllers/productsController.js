@@ -21,14 +21,26 @@ async function insertProduct(req,res){
 }
 
 async function editProduct(req,res){
-    productInfo = req.body.data
-    const id = productInfo._id
-    const value = productInfo.value
-    const attribute = productInfo.attribute
-    const updateProduct = await updateData(id, value, attribute, ProductModel)
-    if (updateProduct === true) {
-        return res.status(200).json({message: 'Product updated successfully!'})
-    }
+    productInfo = req.body
+    console.log(productInfo)
+    // const id = productInfo._id
+    // try {
+    //     // Use findOneAndUpdate to find and update the product
+    //     const result = await Product.findOneAndUpdate(
+    //         { _id: productId }, // Query: Find product by ID
+    //         { $set: updatedProduct }, // Update: Set new product data
+    //         { new: true } // Options: Return the updated document
+    //     );
+
+    //     if (!result) {
+    //         return res.status(404).json({ error: "Product not found" });
+    //     }
+
+    //     return res.json(result); // Return the updated product
+    // } catch (error) {
+    //     console.error("Error editing product:", error);
+    //     return res.status(500).json({ error: "Internal server error" });
+    // }
 }
 
 async function getProductByID(req,res,id){
