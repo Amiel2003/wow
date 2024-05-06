@@ -21,26 +21,26 @@ async function insertProduct(req,res){
 }
 
 async function editProduct(req,res){
-    productInfo = req.body
+    productInfo = req.body.nameValuePairs
     console.log(productInfo)
-    // const id = productInfo._id
-    // try {
-    //     // Use findOneAndUpdate to find and update the product
-    //     const result = await Product.findOneAndUpdate(
-    //         { _id: productId }, // Query: Find product by ID
-    //         { $set: updatedProduct }, // Update: Set new product data
-    //         { new: true } // Options: Return the updated document
-    //     );
+    const id = productInfo._id
+    try {
+        // Use findOneAndUpdate to find and update the product
+        const result = await ProductModel.findOneAndUpdate(
+            { _id: productId }, // Query: Find product by ID
+            { $set: updatedProduct }, // Update: Set new product data
+            { new: true } // Options: Return the updated document
+        );
 
-    //     if (!result) {
-    //         return res.status(404).json({ error: "Product not found" });
-    //     }
+        if (!result) {
+            return res.status(404).json({ error: "Product not found" });
+        }
 
-    //     return res.json(result); // Return the updated product
-    // } catch (error) {
-    //     console.error("Error editing product:", error);
-    //     return res.status(500).json({ error: "Internal server error" });
-    // }
+        return res.json(result); // Return the updated product
+    } catch (error) {
+        console.error("Error editing product:", error);
+        return res.status(500).json({ error: "Internal server error" });
+    }
 }
 
 async function getProductByID(req,res,id){
