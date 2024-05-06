@@ -27,7 +27,7 @@ async function editProduct(req,res){
     try {
         // Use findOneAndUpdate to find and update the product
         const result = await ProductModel.findOneAndUpdate(
-            { _id: productId }, // Query: Find product by ID
+            { _id: id }, // Query: Find product by ID
             { $set: updatedProduct }, // Update: Set new product data
             { new: true } // Options: Return the updated document
         );
