@@ -34,9 +34,11 @@ async function editProduct(req,res){
 
         if (!result) {
             return res.status(404).json({ error: "Product not found" });
+        }else{
+            return res.status(200).json({ error: "Product edited successfully" }); // Return the updated product
         }
 
-        return res.json(result); // Return the updated product
+        
     } catch (error) {
         console.error("Error editing product:", error);
         return res.status(500).json({ error: "Internal server error" });
